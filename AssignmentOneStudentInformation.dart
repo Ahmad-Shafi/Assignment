@@ -1,6 +1,6 @@
 import 'AssignmentOneMain.dart';
 
-
+//create Student class
 class Student extends Person{
 
   late int studentID;
