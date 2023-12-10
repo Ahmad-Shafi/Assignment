@@ -5,7 +5,7 @@ class Student extends Person{
 
   late int studentID;
   late String grade;
-  List<int>courseScores = [70,65,68];
+  List<int>courseScores = [75,69,70];
 
   Student(super.name, super.age, super.address, this.studentID, this.grade);
 
