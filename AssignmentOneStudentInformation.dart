@@ -39,6 +39,7 @@ class Student extends Person{
     print("Age: $age");
     print("Address: $address");
     print("Average Score: ${StudentAverageScore().toStringAsFixed(2)}");
+    print("Grade : $grade");
   }
 
 }
